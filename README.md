@@ -15,7 +15,7 @@ Note: Since images are involved in sending emails, one simple way to include the
 [Dashboard Calendar Release](https://email-assets.iith.dev/da-calendar) <br />
 
 ## Find Social Media icons here
-1. White Icons
+1. White Icons <br />
 a. [https://email-assets.iith.dev/social-icons/white/linkedin.png](https://email-assets.iith.dev/social-icons/white/linkedin.png) <br />
 b. [https://email-assets.iith.dev/social-icons/white/instagram.png](https://email-assets.iith.dev/social-icons/white/instagram.png) <br />
 c. [https://email-assets.iith.dev/social-icons/white/whatsapp.png](https://email-assets.iith.dev/social-icons/white/whatsapp.png) <br />
